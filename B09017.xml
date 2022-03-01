@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anno regni Gulielmi et Mariæ, regis &amp; reginæ Anglia, Scotia, Francia &amp; Hibernia, tertio at the Parliament begun at Westminster the twentieth day of March, Anno Dom. 1689, in the second year of the reign of our sovereign Lord and Lady, William and Mary by the grace of God, of England, Scotland, France and Ireland, king and queen, defenders of the faith, &amp;c., and from thence continued by several prorogations and adjournments to the two and twentieth day of October, 1691 being the third session of this present parliament.</title>
+            <author>England and Wales. Laws, statutes, etc.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09017</idno>
+            <idno type="STC">Wing E1037E</idno>
+            <idno type="STC">ESTC R223324</idno>
+            <idno type="EEBO-CITATION">61296979</idno>
+            <idno type="OCLC">ocm 61296979</idno>
+            <idno type="VID">180541</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09017)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180541)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2833:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Anno regni Gulielmi et Mariæ, regis &amp; reginæ Anglia, Scotia, Francia &amp; Hibernia, tertio at the Parliament begun at Westminster the twentieth day of March, Anno Dom. 1689, in the second year of the reign of our sovereign Lord and Lady, William and Mary by the grace of God, of England, Scotland, France and Ireland, king and queen, defenders of the faith, &amp;c., and from thence continued by several prorogations and adjournments to the two and twentieth day of October, 1691 being the third session of this present parliament.</title>
+                  <author>England and Wales. Laws, statutes, etc.</author>
+                  <author>England and Wales. Sovereign (1689-1694 : William and Mary).</author>
+               </titleStmt>
+               <extent>18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by C. Bill and the executrix of T. Newcomb,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title from p. 3.</note>
+                  <note>Text in black letter.</note>
+                  <note>Title vignette: royal coat of arms.</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Alcoholic beverages --  Taxation --  Law and legislation --  England.</term>
+               <term>Excise tax --  Law and legislation --  England.</term>
+               <term>Beer --  Early works to 1800.</term>
+               <term>Ale --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180541:1"/>
+            <pb facs="tcp:180541:1"/>
+            <p>Anno Regni GULIELMI ET MARIAE, REGIS &amp; REGINAE <hi>Angliae, Scotiae, Franciae &amp; Hiberniae,</hi> TERTIO.</p>
+            <p>At the Parliament begun at <hi>Weſtminſter</hi> the Twen<g ref="char:EOLhyphen"/>tieth Day of <hi>March, Anno Dom.</hi> 1689. In the Se<g ref="char:EOLhyphen"/>cond Year of the Reign of our Sovereign Lord and Lady, <hi>WILLIAM</hi> and <hi>MARY,</hi> by the Grace of God, of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> King and Queen, Defenders of the Faith, <hi>&amp;c.</hi>
+            </p>
+            <p>And from thence Continued by ſeveral Prorogations and Adjourn<g ref="char:EOLhyphen"/>ments to the Two and twentieth Day of <hi>October,</hi> 1691. being the Third Seſſion of this preſent Parliament.</p>
+            <figure>
+               <q xml:lang="frm">DIEV ET MON DROIT</q>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon surmounted by a crown and flanked by the English lion on one side and the Scottish unicorn on the other</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill,</hi> and the Executrix of <hi>Thomas Newcomb,</hi> Deceas'd; Printers to the King and Queens moſt Excellent Majeſties. MDCXCI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:180541:2"/>
+            <pb n="3" facs="tcp:180541:2"/>
+            <head>Anno Tertio GULIELMI &amp; MARIAE.</head>
+            <head>An ACT for Granting to Their Majeſties certain Impoſitions upon Beer, Ale, and other Li<g ref="char:EOLhyphen"/>quors, for One Year.</head>
+            <opener>
+               <salute>Moſt Gracious Sovereigns,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E Your Majeſties moſt Dutiful and Loyal Subjects the Commons in Par<g ref="char:EOLhyphen"/>liament Aſſembled, having entred into a ſerious Conſiderati<g ref="char:EOLhyphen"/>on of the Extraordi<g ref="char:EOLhyphen"/>nary Expences in which Your Majeſties are Engaged for the neceſſary Defence of Your Realms, and for the Effectual carrying on the War againſt <hi>France,</hi> and being deſirous to raiſe Aids and Supplies proportionable to the greatneſs of the Occaſions, have to<g ref="char:EOLhyphen"/>wards
+<pb n="4" facs="tcp:180541:3"/> the Ends and Purpoſes afore<g ref="char:EOLhyphen"/>ſaid, found it Expedient to Grant for One other Year certain Impoſitions upon Beer, Ale, and other Liquors; And have Vnanimouſly Given and Granted, and do hereby Give and Grant unto Your Majeſties the ſeveral Addi<g ref="char:EOLhyphen"/>tional Rates, Duties, and Charges up<g ref="char:EOLhyphen"/>on Beér, Ale, and other Liquors herein after Expreſſed, and do moſt humbly be<g ref="char:EOLhyphen"/>ſeech Your Majeſties that it may be En<g ref="char:EOLhyphen"/>acted:</p>
+            <p>And be it Enacted by the King and Queéns moſt Excellent Majeſties, by and with the Advice and Conſent of the Lords Spiritual and Temporal, and Commons in this preſent Parlia<g ref="char:EOLhyphen"/>ment Aſſembled, and by Authority of the ſame, That from and after the Se<g ref="char:EOLhyphen"/>venteénth Day of <hi>November</hi> in the Year of our Lord, One thouſand ſix hundred and ninety one, there ſhall be through<g ref="char:EOLhyphen"/>out this Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> Raiſed, Levied, Collected, and Paid unto Their Majeſties, and Their Succeſſors, during the Space and Term of One Year, commencing from the Se<g ref="char:EOLhyphen"/>venteénth Day of <hi>November</hi> aforeſaid, and no longer, for Beér, Ale, Cyder, and other Liquors, Brewed, Made, Imported, or Sold, by way of Exciſe, over and above all other Duties, Charges and Impoſitions by any former Act or Acts Set and Impo<g ref="char:EOLhyphen"/>ſed,
+<pb n="5" facs="tcp:180541:3"/> the ſeveral Duties, Charges and Im<g ref="char:EOLhyphen"/>poſitions herein after mentioned, and in manner and form following, that is to ſay:</p>
+            <p>For every Barrel of Beér or Ale above Six ſhillings the Barrel, which from and after the ſaid Seventeénth Day of <hi>November,</hi> and before the Five and twen<g ref="char:EOLhyphen"/>tieth day of <hi>July,</hi> One thouſand ſix hun<g ref="char:EOLhyphen"/>dred and ninety two, ſhall be Brewed by the Common Brewer, or any other Perſon who doth or ſhall Sell, or Tap out Beér, or Ale Publickly, or Private<g ref="char:EOLhyphen"/>ly, or at Fairs, Wakes, Chutes, By<g ref="char:EOLhyphen"/>drinkings, or otherwiſe, to be paid by the Common Brewer, or ſuch other Per<g ref="char:EOLhyphen"/>ſon or Perſons reſpectively, and ſo pro<g ref="char:EOLhyphen"/>portionably for a greater or leſſer Quan<g ref="char:EOLhyphen"/>tity, One ſhilling Nine pence.</p>
+            <p>And for every Barrel of ſuch Beér or Ale Brewed on or after the ſaid Five and twentieth Day of <hi>July,</hi> and before the Eighteénth Day of <hi>November,</hi> One thou<g ref="char:EOLhyphen"/>ſand ſix hundred and ninety two, Two ſhillings Six pence.</p>
+            <p>For every Barrel of Beér, or Ale of Six Shillings the Barrel or under, which from and after the ſaid Seven<g ref="char:EOLhyphen"/>teenth day of <hi>November,</hi> and before the Five and twentieth day of <hi>July,</hi> One thouſand ſix hundred and ninety two, ſhall be Brewed by the Common Brewer, or any other Perſon or Perſons who doth or ſhall Sell, or Tap out Beér or Ale,
+<pb n="6" facs="tcp:180541:4"/> Publickly or Privately, to be Paid by the ſaid Common Brewer, or by ſuch other Perſon or Perſons reſpectively, as aforeſaid, and ſo proportionably for a greater or leſſer Quantity, Threé pence.</p>
+            <p>And for every Barrel of ſuch Beér or Ale Brewed on, or after the ſaid Four and twentieth day of <hi>July,</hi> and before the ſaid Eighteenth day of <hi>November,</hi> One thouſand ſix hundred ninety two, Six pence.</p>
+            <p>And for every Barrel of Vinegar, or Vinegar-Beér Brewed, or Made, on, or after the ſaid Five and twentieth day of <hi>July,</hi> and before the ſaid Eighteenth day of <hi>November,</hi> One thouſand ſix hundred ninety two, of any Engliſh Materials, by any Common Brewer, or Vinegar Maker, or other Perſons for Sale, to be Paid by the Maker thereof, and ſo pro<g ref="char:EOLhyphen"/>portionably for a greater or leſſer Quan<g ref="char:EOLhyphen"/>tity, One ſhilling.</p>
+            <p>For every Barrel of Beér, Ale or Munt Imported, After the ſaid Seventeénth day of <hi>November,</hi> and before the ſaid Five and twentieth day of <hi>July,</hi> from beyond the Seas, or from the Iſlands of <hi>Guernſey</hi> or <hi>Jerſey,</hi> and ſo proportionably for a grea<g ref="char:EOLhyphen"/>ter or leſſer Quantity, to be Paid by the Importers, before Landing, Threé ſhil<g ref="char:EOLhyphen"/>lings.</p>
+            <p>And for every Barrel of ſuch Beér, Ale or Mum, Imported on, or after the ſaid Five and twentieth day of <hi>July,</hi> and be<g ref="char:EOLhyphen"/>fore
+<pb n="7" facs="tcp:180541:4"/> the ſaid Eighteenth day of <hi>Novem<g ref="char:EOLhyphen"/>ber,</hi> One thouſand ſix hundred ninety two, Six ſhillings.</p>
+            <p>For every Tun of Cyder, or Perry Im<g ref="char:EOLhyphen"/>ported on, or after the ſaid Five and twen<g ref="char:EOLhyphen"/>tieth day of <hi>July,</hi> and before the ſaid Eighteenth day of <hi>November,</hi> One thou<g ref="char:EOLhyphen"/>ſand ſix hundred ninety two, from be<g ref="char:EOLhyphen"/>yond the Seas, and ſo proportionably for a greater or leſſer Quantity, to be Paid by the Importer, before Landing, Ten ſhillings.</p>
+            <p>For every Hogſhead of Cyder, and Perry, Made and Sold by Retail, after the ſaid Seventeénth day of <hi>November,</hi> and before the ſaid Five and twentieth day of <hi>July,</hi> One thouſand ſix hundred and ninety two, to be Paid by the Re<g ref="char:EOLhyphen"/>tailer thereof, One ſhilling Three pence, and ſo proportionably for a greater or leſſer Meaſure.</p>
+            <p>And for every Hogſhead of Cyder and Perry, Made and Sold, as aforeſaid, on or after the ſaid Five and twentieth day of <hi>July,</hi> One thouſand ſix hundred ninety and two, and before the ſaid Eigh<g ref="char:EOLhyphen"/>teénth day of <hi>November,</hi> One thouſand ſix hundred ninety and two, Two ſhillings Six pence, and ſo proportionably for any greater or leſſer Meaſure.</p>
+            <p>For all Metheglin, or Mead made for Sale, whether by Retail or other<g ref="char:EOLhyphen"/>wiſe, on or after the ſaid Five and twen<g ref="char:EOLhyphen"/>tieth day of <hi>July,</hi> and before the ſaid
+<pb n="8" facs="tcp:180541:5"/> Eighteénth day of <hi>November,</hi> One thou<g ref="char:EOLhyphen"/>ſand ſix hundred ninety and two, to be Paid by the Maker for every Gallon, One penny.</p>
+            <p>And be it further Enacted by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, That the ſeveral Rates and Duties of Exciſe hereby Impoſed on the Liquors aforeſaid, ſhall be Raiſed, Levyed, Collected, Recovered and Paid unto Their Majeſties, and Their Suc<g ref="char:EOLhyphen"/>ceſſors, during the term before mentioned, and in the ſame Manner and Form, and by ſuch Rules, Deductions, Allowances, Ways and Means, and under ſuch Penalties and Forfeitures as are men<g ref="char:EOLhyphen"/>tioned, Expreſſed and Directed in and by one Act of Parliament made in the Twelfth Year of the late King <hi>Charles</hi> the Second, Entituled, <hi>A Grant of cer<g ref="char:EOLhyphen"/>tain Impoſitions upon Beer, Ale and other Liquors for the Increaſe of His Majeſties Re<g ref="char:EOLhyphen"/>venue, during His Life;</hi> And one other Act made in the ſaid Twelfth year of the Reign of the ſaid late Kings <hi>Charles</hi> the Second, Entituled, <hi>An Act for Ta<g ref="char:EOLhyphen"/>king away the Court of Wards, and Liveries, and Tenures <hi>in Capite,</hi> and by Knight Service, and Purveyance, and for Settling a Revenue upon His Majeſty in lieu thereof;</hi> And alſo in and by one other Act of Parliament made in the Fifteenth year of His ſaid late Majeſties Reign, Entituled, <hi>An Additi<g ref="char:EOLhyphen"/>onal Act for the better Ordering and Collecting the Duty of Exciſe, and preventing the
+<pb n="9" facs="tcp:180541:5"/> Abuſes therein;</hi> or in one Act of Parlia<g ref="char:EOLhyphen"/>ment made in the Firſt year of the Reign of Their preſent Majeſties, Entituled, <hi>An Act for an Additional Duty of Exciſe up<g ref="char:EOLhyphen"/>on Beer, Ale and other Liquors,</hi> or by any Law now in Force, Relating to the Re<g ref="char:EOLhyphen"/>venue of Exciſe.</p>
+            <p>And be it further Enacted by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, That all Perſons who do or ſhall uſually Entertain, or Lodge any Waggoners, Carriers, Strangers or Wayfaring Men, ſhall be taken and eſteemed Retailers, within the meaning of this Act.</p>
+            <p>And that Their Majeſties may not be prevented of the Duties hereby Granted by any Frauds or Practices to leſſen the ſame, Be it further Enacted, That no Perſon or Perſons (Except Victuallers, Retailers, and Common Brewers) In<g ref="char:EOLhyphen"/>habiting in any Market Town, or in any City, or Suburbs of the ſame, or in any Town Corporate, or in parts Adjoyning to any City, or Suburbs, Town Cor<g ref="char:EOLhyphen"/>porate, or Market Town, where there is or ſhall be a Common Brewer or Brewers, Brewing, Making or Selling Strong Beér or Ale, and Small Beer, who within the ſpace of One year next before the Seventeenth of <hi>November,</hi> in the Year One thouſand ſix hundred and ninety, did not Brew, or Make the Strong Beer, Small Beer, or Ale, Drunk, Conſumed, Spent or Sold in
+<pb n="10" facs="tcp:180541:6"/> his or their reſpective Houſes, Out-houſes, or other places, ſhall not during the Term aforeſaid, Brew or Make any Strong Beer, Strong Ale, Small Beer, or Ale, to be Drunk, Conſumed or Spent in his or their reſpective Houſes, or Fa<g ref="char:EOLhyphen"/>milies, under pain to Forfeit for every ſuch Offence, Twenty pounds.</p>
+            <p>Provided, That in caſe any Perſon within the ſpace of a year before the ſaid Seventeenth Day of <hi>November,</hi> One thou<g ref="char:EOLhyphen"/>ſand ſix hundred and ninety, did uſual<g ref="char:EOLhyphen"/>ly Brew the Strong Beer, Small Beer and Ale, Drunk and Spent in the Houſe or Houſes where he and his Fa<g ref="char:EOLhyphen"/>mily have Inhabited, for the uſe of him<g ref="char:EOLhyphen"/>ſelf and his Family, and ſhall remove his Family to any other Houſe, It ſhall and may be Lawful to and for ſuch Perſon to Brew his own Ale or Beer, as he did before, and not be liable to the ſaid Penalty.</p>
+            <p>And be it further Enacted, That it ſhall and may be Lawful to and for the Commiſſioners of Exciſe, and Iuſtices of Peace reſpectively, upon any In<g ref="char:EOLhyphen"/>formation exhibited before them, for any Offence committed againſt the Laws of Exciſe, to Summon any Perſon or Per<g ref="char:EOLhyphen"/>ſons (other then the Party or Parties Accuſed) to Appear before them at a certain day, time and place, to be inſer<g ref="char:EOLhyphen"/>ted in ſuch Summons, and to give Evi<g ref="char:EOLhyphen"/>dence for Diſcovery of the matter in
+<pb n="11" facs="tcp:180541:6"/> Controverſie before them, and in caſe of Neglect, or Refuſal to Appear, or if up<g ref="char:EOLhyphen"/>on Appearance ſuch Perſon or Perſons ſhall refuſe to give Evidence when he ſhall be thereunto required; Every ſuch Perſon ſo making Default ſhall Forfeit and Loſe for every ſuch Offence any Sum or Sums of Money, not ex<g ref="char:EOLhyphen"/>ceéding Fourty ſhillings, to be Impoſed, Recovered, Levied and Diſpoſed in man<g ref="char:EOLhyphen"/>ner as herein after is mentioned.</p>
+            <p>And be it further Enacted by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, That all Fines, Pe<g ref="char:EOLhyphen"/>nalties and Forfeitures by this Act Im<g ref="char:EOLhyphen"/>poſed, ſhall be Sued for, Recovered and Levied by ſuch Ways, Means, and Me<g ref="char:EOLhyphen"/>thods, as any other Fine, Penalty or Forfeiture is, or may be Recovered by any Law or Laws of Exciſe, or by Action of Debt, Bill, Plaint or Information in any of Their Majeſties Courts of Re<g ref="char:EOLhyphen"/>cord at <hi>Weſtminſter;</hi> And that one Moie<g ref="char:EOLhyphen"/>ty of ſuch Forfeiture or Penalty ſhall be to Their Majeſties, Their Heirs, and Succeſſors, and the other Moiety to him, or them that ſhall Diſcover, Inform or Sue for the ſame.</p>
+            <p>Provided always, and be it Enacted by the Authority aforeſaid, That upon any Perſon or Perſons Exporting any ſort of Strong Beer, Strong Ale, Cyder or Mum, according to the true intent and meaning, and purſuant to the Directi<g ref="char:EOLhyphen"/>ons of an Act made in the Firſt Year of
+<pb n="12" facs="tcp:180541:7"/> Their Majeſties Reign, Entituled, <hi>An Act for the Exportation of Beer, Ale, Cyder and Mum,</hi> The Commiſſioners and Officers of Exciſe, where the Entry thereof ſhall be made, are required to make Allowance, or Repay, as well the Additional Duty of Exciſe by this Act Impoſed upon all ſuch Beer, Ale, Cyder and Mum, as the Duty in the ſaid Act mentioned unto the Brewer, or Maker thereof within One Month after ſuch Exportation, deducting the Three pence <hi>per</hi> Tun for the Charges of their Officers, by the ſaid before mentioned Act directed to be deducted.</p>
+            <p>And to the end Their Majeſties may be duly anſwered the Rates and Duties hereby Granted, and intended in the Pro<g ref="char:EOLhyphen"/>portions deſigned, Be it further Enacted by the Authority aforeſaid, That no Brewer, or Victualler who doth, or ſhall Sell, and Deliver Beer, or Ale to any of their Cuſtomers in Cask, do or ſhall without giving Notice to the Su<g ref="char:EOLhyphen"/>perviſor, or Gauger Appointed for the Place and Diviſion where ſuch Brewer, or Victualler doth, or ſhall Inhabit, Cleanſe, Carry off, or convey away any part of his or their Guile of Beér, or Ale, before the whole of ſuch Guile ſhall be Brewed off, and be in the Tuns, Backs, or Cool<g ref="char:EOLhyphen"/>ers, and until ſuch Officers ſhall or might have taken an Account of the ſame, and of the diſtinct Qualities thereof in their
+<pb n="13" facs="tcp:180541:7"/> reſpective Veſſels; At which time the Brewer, or Victualler, or his, or their Servants working the ſame, in caſe he, or they intend to make a party Guile thereof, ſhall declare to ſuch Gauger, or Officer, how much thereof he intends to make into Strong Beér, or Strong Ale, and how much into Small, upon Pe<g ref="char:EOLhyphen"/>nalty of Forfeiting Twenty ſhillings for every Barrel of Beér, Ale, or Worts, he ſhall ſo Cleanſe, Car<g ref="char:EOLhyphen"/>ry off, or Convey away, over and above the Penalties already Impo<g ref="char:EOLhyphen"/>ſed for Conveying away, or Con<g ref="char:EOLhyphen"/>cealing Beer, or Ale; And in caſe ſuch Brewer, or Victualler, or their reſpective Servants, Brewing ſuch Beer, or Ale ſhall refuſe to Declare to ſuch Officers how much of their Guile, or Brewing they intend to make into Strong Beer, or Ale, and how much into Small, It ſhall be Lawful for ſuch Officer to Return and Charge the whole of ſuch Guile to be Strong, and ſuch Brewer, or Victualler ſhall Pay the Duties thereof accordingly; And in caſe after ſuch Gauge taken, or Declaration made, ſuch Brewer, or Victualler ſhall make any Increaſe
+<pb n="14" facs="tcp:180541:8"/> of the Strong Drink ſo Gauged, or Declared by any ways or means whatſoever, ſuch Increaſe ſhall be Deémed and Taken to be, and pro<g ref="char:EOLhyphen"/>ceed from mixing Small Beer with ſuch Strong Beer, or Ale, and ſuch Brewer, or Victualler ſhall Forfeit Twenty ſhillings for every Barrel ſo Increaſed over and a<g ref="char:EOLhyphen"/>bove the Penalties already Impo<g ref="char:EOLhyphen"/>ſed for mixing Small Beer with Strong, and ſo proportionably; And further, that if any Brewer, Victualler, or Retailer ſhall out of the Brew-houſe, or Place of Brewing, Start or Mix any Small Beer, or Small Worts with or amongſt Strong Beer, Strong Ale, or Strong Worts in Cask, ſuch Brewer, Victual<g ref="char:EOLhyphen"/>ler, or Retailer, ſo doing ſhall For<g ref="char:EOLhyphen"/>feit and Loſe for every ſuch Of<g ref="char:EOLhyphen"/>fence Twenty ſhillings.</p>
+            <p>Provided always, and be it En<g ref="char:EOLhyphen"/>acted, That the Duty of Exciſe Granted by this Act ſhall be Char<g ref="char:EOLhyphen"/>ed on, and Paid by the Common Brewer, and not by the Retailer, or Spender, ſave only where the Retailer Brews for Retailing in
+<pb n="15" facs="tcp:180541:8"/> his own Houſe or Houſes, and doth not Buy his Drink of any Com<g ref="char:EOLhyphen"/>mon Brewer; Any thing in this Act, or any other Law to the con<g ref="char:EOLhyphen"/>trary notwithſtanding.</p>
+            <p>Provided always, and be it En<g ref="char:EOLhyphen"/>acted by the Authority aforeſaid, That this Act, or any Clauſe, or Proviſo therein contained ſhall not Continue, or be of Force longer then for the ſaid Term of One year, Commencing from the ſaid Seven<g ref="char:EOLhyphen"/>teenth day of <hi>November,</hi> One thou<g ref="char:EOLhyphen"/>ſand ſix hundred and ninety one, other then for the Levying and Collecting the Arrears of the Rates, and Duties, Granted by this Act, which ſhall be Vnpaid at the end of the ſaid Term; And for the Levying ſuch Fines, Forfeitures, and Penalties Impoſed by virtue of this Act, as ſhall not be Le<g ref="char:EOLhyphen"/>vied, and Paid before the end of the ſaid Term.</p>
+            <p>And foraſmuch as the Collectors, Superviſors, Gaugers, and other Officers of the ſaid Exciſe, and Officers concerned therein by rea<g ref="char:EOLhyphen"/>ſon of the Greatneſs of the ſaid
+<pb n="16" facs="tcp:180541:9"/> Duty, and the extraordinary Pow<g ref="char:EOLhyphen"/>ers they have given them, in Charg<g ref="char:EOLhyphen"/>ing or Raiſing the ſame, being re<g ref="char:EOLhyphen"/>ſident in moſt Parts of the King<g ref="char:EOLhyphen"/>dom where Elections of Members to ſerve in Parliament are made, have very frequently, either by Threats or Promiſes ſo prevailed upon ſeveral Electors, that they have abſolutely beén Debarred of the freedom of giving their Votes, which according to the known Con<g ref="char:EOLhyphen"/>ſtitutions of this Kingdom e<g ref="char:EOLhyphen"/>very Perſon ought to Have, and Enjoy, when he is to Chooſe his Repreſentative: For remedy of which Miſchief, Be it Enacted by the Authority aforeſaid, That from and after the Second Day of <hi>Fe<g ref="char:EOLhyphen"/>bruary,</hi> One thouſand ſix hundred ninety one, every Collector, Super<g ref="char:EOLhyphen"/>viſor, Gauger, or other Officer con<g ref="char:EOLhyphen"/>cerned in the Charging, Collect<g ref="char:EOLhyphen"/>ing, or Managing the ſaid Duty of Exciſe, that ſhall either by Let<g ref="char:EOLhyphen"/>ter, or Meſſage, or Word of Mouth, endeavour to perſwade any Elect<g ref="char:EOLhyphen"/>or to give, or diſſwade any Elector from giving his Vote for any Per<g ref="char:EOLhyphen"/>ſon, or Perſons that ſhall be put in Nomination to be Elected a
+<pb n="17" facs="tcp:180541:9"/> Member or Members of Parlia<g ref="char:EOLhyphen"/>ment, ſhall for ſo doing forfeit the Sum of One hundred Pounds, one Moiety thereof to the Infor<g ref="char:EOLhyphen"/>mer, and the other Moiety to the Poor of the Pariſh, where ſuch Offence ſhall be committed, to be Recovered in any of Their Maje<g ref="char:EOLhyphen"/>ſties Courts of Record, by Action of Debt, Bill, Plaint, or In<g ref="char:EOLhyphen"/>formation, wherein no Wager of Law, Protection, or Eſſoign, or more then One Imparlance ſhall be Allowed: And further, That every Perſon or Perſons that ſhall be Convicted in any ſuch Action, Bill, Plaint, or Information, of the ſaid Offence, ſhall immediate<g ref="char:EOLhyphen"/>ly from and after ſuch Convicti<g ref="char:EOLhyphen"/>on be Diſabled, and Incapable of ever after Executing any Office or Place concerning the ſaid Duty of Exciſe.</p>
+            <p>And it is hereby Declared and Enacted, That true Notes in Wri<g ref="char:EOLhyphen"/>ting of the laſt Gauges Made or Taken by the ſaid Gaugers, ſhall be left by them with all Brew<g ref="char:EOLhyphen"/>ers, Makers, or Retailers of Beér, Ale, or other Exciſeable Liquors
+<pb n="18" facs="tcp:180541:10"/> reſpectively, or ſome of their Ser<g ref="char:EOLhyphen"/>vants, at the times of their ta<g ref="char:EOLhyphen"/>king the ſaid Gauges, contain<g ref="char:EOLhyphen"/>ing the Quantity and Quality of the Liquors ſo Gauged, upon Pe<g ref="char:EOLhyphen"/>nalty of Fourty ſhillings for e<g ref="char:EOLhyphen"/>very Offence, or Neglect of the ſaid Gauger or Gaugers.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:180541:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
